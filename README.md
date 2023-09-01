@@ -2,5 +2,7 @@
 
 Hola github
 
-link de pages: https://lauritaweb.github.io/afterpreentrega2/
+Link del repo: https://github.com/Lauritaweb/afterpreentrega2.git
+
+Link de pages: https://lauritaweb.github.io/afterpreentrega2/
 
